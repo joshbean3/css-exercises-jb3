@@ -4,3 +4,9 @@ p.odd-numbers{
     font-family: sans-serif;
 }
 
+#number-4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
